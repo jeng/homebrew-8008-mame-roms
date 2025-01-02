@@ -1,4 +1,4 @@
-# ROMS for the Mame homebrew computer emulators 8008-SBC and 8008-Super
+# Mame ROMs 8008-SBC and 8008-Super
 Prebuilt roms for the Mame 8008-SBC and 8008-Super emulators.
 
 ## Original Source Code
