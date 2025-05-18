@@ -8,3 +8,4 @@ Prebuilt roms for the Mame 8008-SBC and 8008-Super emulators.
 ## Demos of the emulator
 - 8008-SBC: https://youtu.be/MXzt6vm5Khk?si=VeR4K74fTdpji3sg
 - 8008-Super: https://youtu.be/no5sw3ZQOyo?si=JYFf_CJzZPVLFoeH
+- Assembly Code: https://jeremyenglish.org/parallel-sieve.html
